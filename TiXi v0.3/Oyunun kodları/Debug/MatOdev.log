@@ -1,0 +1,6 @@
+﻿  MatOdev.cpp
+C:\Users\TiXi\source\repos\MatOdev\MatOdev.cpp(481,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\TiXi\source\repos\MatOdev\MatOdev.cpp(805,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\TiXi\source\repos\MatOdev\MatOdev.cpp(646,21): warning C4101: 'vuruldugunhasar': unreferenced local variable
+C:\Users\TiXi\source\repos\MatOdev\MatOdev.cpp(645,59): warning C4101: 'randomhasar': unreferenced local variable
+  MatOdev.vcxproj -> C:\Users\TiXi\source\repos\MatOdev\Debug\MatOdev.exe
