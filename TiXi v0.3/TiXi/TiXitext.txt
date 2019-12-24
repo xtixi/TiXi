@@ -1,0 +1,21 @@
+Ad Soyad: Berkcan Ciboğlu
+No: 1902020009
+TiXi
+TiXi Nedir?
+-TiXi; yazı tabanlı, Orta Dünyada geçen, interaktif bir rol yapma oyunudur. Karakterinize vereceğiniz kararlar doğrultusunda hikaye ilerler.
+-Oyun sadece basit seviyede C++ bilgisiyle yapılmıştır.
+Oyunun Hikayesi
+Oyunun hikayesi tek sayfaya sığmayacağı için kısaltarak anlatmaya çalışayım. Tek kara parçasına sahip bir Dünyada eski insanlar artı şeklindeki kara parçasının ortasında mutlu Mesut yaşıyorlardı, ancak azalan kaynaklar ve çoğalan nüfus yüzünden artı şeklindeki kara parçasının dört bir yanına dağılıp kendi imparatorluklarını kurdular. Belli bir zaman bu düzen huzur içinde gitti ama bir imparatorluk kuraklık nedeniyle çöktü, daha sonrasında bu çöken imparatorluktan çıkan özel yeteneklere sahip  kötü bir insan belirli kişilerle bir imparatorluk kurdu, TiXi ismi de bu imparatorluğu kuran örgütün ismidir. Bu imparatorluk diğer imparatorluklara savaş açıp onları yendi ve Dünyaya hükmetti. Biz oyunda bu Dünyada yaşayan ve bu kötü imparatorluğu devirmeye çalışan bir savaşçıyı oynuyoruz.
+
+Oyundaki Eşya Sistemi
+Oyunda bir eşya sistemi vardır, her eşya kendine has özelliklere sahiptir.
+
+Oyundaki Irklar
+Oyunda 4 adet ırk vardır. Bu ırklar; Kuzeyli, Güneyli, Doğulu ve Batılı olmak üzere 4’e ayrılır. Her ırkın kendine has özellikleri vardır.
+
+Oyundaki Savaş Sistemi
+Oyunda basit bir savaş sistemi vardır. Oyunda savaş hamle hamle olur. Şansınız varsa ilk hamle yaparsınız. Hamle size geldikten sonra rakibin neresine saldırıcağınızı belirlersiniz, eğer saldırınız başarılı olursa rakibin neresine saldırdığınıza göre hasar vurusunuz.(Vuracağınız hasar, canınız,  vurduğunuz hasarın kritik vuruş olup olmadığı, rakibiniz hamlenizden kaçınabilme şansı tamamen sahip olduğunuz yeteneklere göre belirlenir.)
+
+Oyuna Getirebileceğim Yenilikler
+Oyunu yazı tabanlı olmaktan çıkarabilirim, sonuçta artık yazı tabanlı oyun üretilmiyor. Hikayeyi tamamlayacağım büyük hikayeye sahip bir oyun olduğu için yazması uzun sürüyor. Ve oyunun mekaniklerini geliştirip oyuna görsel de ekleyebilirim.
+Oyunu Oynamak İsterseniz Oyunun Linki: github.com/xtixi/TiXi
